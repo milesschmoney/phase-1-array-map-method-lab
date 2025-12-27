@@ -21,4 +21,5 @@ const titleCased = () => {
       .join(' ')
   );
 };
+
 module.exports = titleCased;
